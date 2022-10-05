@@ -1,1 +1,3 @@
-# TicTacToe
+# Tic Tac Toe
+
+![TicTacToe](inGame.png)
